@@ -1,0 +1,1 @@
+web: gunicorn cricpro_pro.wsgi --log-file -
